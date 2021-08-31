@@ -11,7 +11,7 @@ Device, twrp tree,... for this prototype
 | Memory       | 8GB RAM (LPDDR4X)                               |
 | Storage      | 128GB UFS 2.1 flash storage                     |
 | Battery      | Non-removable Li-Po 3300 mAh                    |
-| Display      | 2340 x 1080 (19.5:9), 6.3  inch                 |
+| Display      | 2880x1440, 320dpi, 6.3  inch, 60hz, AMOLED     |
 | Rear camera 1 | 16 MP,4656x3496                                |
 | Rear camera 3 | 5 MP, 2608x1960                                |
 | Front camera | 20MP, 5184x3880                                 |
