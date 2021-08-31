@@ -14,6 +14,6 @@ Device, twrp tree,... for this prototype
 | Storage      | 128GB UFS 2.1 flash storage                     |
 | Battery      | Non-removable Li-Po 3300 mAh                    |
 | Display      | 2880x1440, 320dpi, 6.3  inch, 60hz, AMOLED     |
-| Rear camera 1 | 16 MP,4656x3496                                |
-| Rear camera 3 | 5 MP, 2608x1960                                |
+| Rear camera 1| 16 MP,4656x3496                                |
+| Rear camera 2| 5 MP, 2608x1960                                |
 | Front camera | 20MP, 5184x3880                                 |
