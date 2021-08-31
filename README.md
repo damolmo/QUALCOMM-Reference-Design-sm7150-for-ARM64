@@ -2,7 +2,7 @@
 Device, twrp tree,... for this prototype
 
 # Device render
-<img src="https://github.com/daviiid99/QUALCOMM-Reference-Design-sm6150-for-ARM64/blob/master/qrd.jpg">
+<img src="https://github.com/daviiid99/daviiid99/raw/main/resources/sm6150.png">
 
 # Device Specs
 | Device       | QUALCOMM sm6150 for arm64                       |
